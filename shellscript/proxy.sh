@@ -146,6 +146,7 @@ else
 	nginx -s reload
 fi
 }
+nginx
 while true
 do
 	main
